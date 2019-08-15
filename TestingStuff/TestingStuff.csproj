@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DelegatePractice.cs" />
+    <Compile Include="ExplicitInterfacePractice.cs" />
     <Compile Include="GenericRefPassing.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

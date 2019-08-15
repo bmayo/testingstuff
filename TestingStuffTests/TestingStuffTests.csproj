@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TestDelegatePractice.cs" />
+    <Compile Include="TestExplicitInterfacePractice.cs" />
     <Compile Include="TestGenericRefPassing.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
