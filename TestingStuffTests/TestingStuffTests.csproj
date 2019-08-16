@@ -49,6 +49,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestBoxPractice.cs" />
+    <Compile Include="TestLinqPractice.cs" />
     <Compile Include="TestDelegatePractice.cs" />
     <Compile Include="TestExplicitInterfacePractice.cs" />
     <Compile Include="TestGenericRefPassing.cs" />

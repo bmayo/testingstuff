@@ -44,9 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BoxPractice.cs" />
     <Compile Include="DelegatePractice.cs" />
     <Compile Include="ExplicitInterfacePractice.cs" />
     <Compile Include="GenericRefPassing.cs" />
+    <Compile Include="LinqPractice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
